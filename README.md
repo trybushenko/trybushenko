@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
 <h1 align="center">
 Hi, I'm Artem Trybushenko!
 	<a href="https://github.com/trybushenko" target="_self">
@@ -6,10 +7,10 @@ Hi, I'm Artem Trybushenko!
 </h1>
 <p align="center">
 	<a href="https://github.com/trybushenko">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=trybushenko&label=Profile%20views&color=0e75b6&style=flat" alt="trybushenko" />
 	</a>
 	<a href="https://github.com/trybushenko">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/trybushenko?label=Followers" alt="trybushenko" />
 	</a>
 </p>
 <br/>
