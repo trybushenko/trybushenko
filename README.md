@@ -1,4 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
 <h1 align="center">
 Hi, I'm Artem Trybushenko!
 	<a href="https://github.com/trybushenko" target="_self">
@@ -16,21 +15,20 @@ Hi, I'm Artem Trybushenko!
 <br/>
 <p align="center">
 	<a href="https://github.com/trybushenko">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;DS%20|%20AI%20|%20ML%20Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 I am a Machine Learning Engineer
+📚 I have a Bachelor degree in Computer Engineering from Igor Sikorsky Kyiv Polytechnic Institute
+📝 I have a strong background in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🌱 Learning about Computer Vision, NLP, Models Deployment 
+🌟 Main languages: Python
+🤔 I’m currently open for: a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Z0PKMRI2swJL6JLHBHI8iaeQsxTzoSUL/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -47,7 +45,6 @@ Hi, I'm Artem Trybushenko!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/trybushenko"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/trybushenko"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -57,6 +54,12 @@ Hi, I'm Artem Trybushenko!
     <a href="https://github.com/trybushenko"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/trybushenko"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/trybushenko"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/trybushenko"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+    <a href="https://github.com/trybushenko"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/trybushenko"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="https://github.com/trybushenko"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+    <a href="https://github.com/trybushenko"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+	
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
