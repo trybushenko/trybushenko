@@ -23,12 +23,11 @@ Hi, I'm Artem Trybushenko!
 
 <pre>
 💻 I am a Machine Learning Engineer
-📚 I have a Bachelor degree in Computer Engineering from Igor Sikorsky Kyiv Polytechnic Institute
 📝 I have a strong background in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision, NLP, Models Deployment 
+🌱 Learning about Computer Vision, NLP, Models Deployment
 🌟 Main languages: Python
-🤔 I’m currently open for: a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Z0PKMRI2swJL6JLHBHI8iaeQsxTzoSUL/view?usp=sharing" target="_blank">MY RESUME.</a>
+
 </pre>
 <hr>
 
